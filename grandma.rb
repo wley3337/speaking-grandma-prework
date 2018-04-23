@@ -19,4 +19,5 @@ def speak_to_grandma(words)
     "NO, NOT SINCE 1938!"
   elsif words != words.upcase
     "HUH?! SPEAK UP, SONNY!"
+  end
 end
